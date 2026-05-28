@@ -1,7 +1,5 @@
 package com.myBlogPost.utils;
 
+public class MyTest {
 
-
-
-public class Test   {
 }
