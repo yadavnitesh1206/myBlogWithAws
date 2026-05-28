@@ -12,6 +12,7 @@
 	<artifactId>myBlogPost</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>myBlogPost</name>
+<!--	added by me for war-->
 	<packaging>war</packaging>
 	<description>Demo project for Spring Boot</description>
 	<url/>
@@ -51,6 +52,7 @@
 			<artifactId>mysql-connector-j</artifactId>
 			<scope>runtime</scope>
 		</dependency>
+<!--		added by me for war-->
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-tomcat</artifactId>
